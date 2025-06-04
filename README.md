@@ -8,8 +8,7 @@ Link do vídeo no youtube: [https://youtu.be/oaQnLgPbJY4]
 
 Visão Geral
 Este projeto é uma aplicação front-end de e-commerce, desenvolvida com foco em performance, organização de componentes e experiência do usuário. Ele simula um catálogo de produtos consumindo dados reais da API DummyJSON. A aplicação foi construída com as tecnologias Vue.js 3, Vite, Axios e TailwindCSS.
-O objetivo é permitir ao usuário explorar produtos, navegar por categorias, buscar itens e acessar informações detalhadas, além de testar funcionalidades extras como ordenação e carrinho de compras.
-________________________________________Funcionalidades Implementadas
+O objetivo é permitir ao usuário explorar produtos, navegar por categorias, buscar itens e acessar informações detalhadas, além de testar funcionalidades extras como ordenação e carrinho de compras, funcionalidades Implementadas
 
 1 Listagem de Produtos
 A aplicação exibe uma lista de produtos com as seguintes informações:
@@ -31,8 +30,7 @@ Ao clicar em qualquer produto, o usuário é redirecionado para uma página dedi
 A aplicação apresenta um menu com todas as categorias disponíveis na loja. Esse menu permite ao usuário filtrar rapidamente os produtos por tipo, exibindo apenas aqueles pertencentes à categoria selecionada.
 
 5 Busca de Produtos
-Um campo de busca em tempo real foi implementado, permitindo ao usuário digitar o nome de um produto e visualizar os resultados dinamicamente. A busca é feita à medida que o usuário digita, sem necessidade de pressionar "Enter".
-________________________________________
+Um campo de busca em tempo real foi implementado, permitindo ao usuário digitar o nome de um produto e visualizar os resultados dinamicamente. A busca é feita à medida que o usuário digita, sem necessidade de pressionar "Enter"._
 
 Funcionalidades Opcionais (Extras)
 
@@ -48,7 +46,6 @@ Adicionar produtos com quantidade inicial de 1
 Alterar a quantidade de itens no carrinho
 Remover itens individualmente
 O carrinho permanece disponível durante a navegação entre as páginas, mesmo sem uso de autenticação ou banco de dados.
-________________________________________
 Instruções para Rodar a Aplicação Localmente
 Para executar a aplicação localmente, é necessário ter um ambiente com o Node.js instalado, além de um gerenciador de pacotes como npm.
 
